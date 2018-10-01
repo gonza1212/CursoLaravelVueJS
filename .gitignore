@@ -1,0 +1,12 @@
+
+vendor/
+
+node_modules/
+
+package-lock\.json
+
+package\.json
+
+\.env\.example
+
+artisan
